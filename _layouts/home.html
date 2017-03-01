@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<div align="center" id="scroller">
+  <script type="text/javascript">
+    initScroller();
+    animateScroller();
+  </script>
+</div>
+
+<div class="home">
+  <div class="grid">
+    {% for portfolio in site.portfolio reversed %}
+      <a href="{{ portfolio.url | prepend: site.baseurl }}"><div class="thumb">{{portfolio.title}}<img class="tmbImg" src="{{portfolio.thumb}}"></div></a>
+    {% endfor %}
+  </div>
+</div>

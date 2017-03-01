@@ -1,0 +1,13 @@
+---
+layout: page
+title: "Danse Neurale"
+thumb: "/img/thumbs/tmb_danse.png"
+permalink: /danse-neurale/
+---
+<img src="/img/banners/banner14.png">
+<p><strong>who: </strong>the performance is a collaboration between Spectre (<a href="http://www.stefanomoscardini.it" target="new">Stefano Moscardini</a> + me) and <a href="http://www.body-art.net" target="new">Lukas Zpira</a>. I created the software and the visuals, Stefano was responsible for the sound design and Lukas is the main performer on stage.</p>
+<p><strong>when: </strong>the whole performance was conceived and realized during the summer of 2011, while the three of us were constantly traveling in different parts of the world; fortunately we did share the same vision and come from very compatible cultural backgrounds, so we managed to create something organic working from different places and syncing with a few occasional chats.</p>
+<p><strong>where: </strong><i>Danse Neurale</i> was realized for the 2011 edition of <a href="http://www.borderlinebiennale.tv" target="new">Borderline Biennale</a>; after just a few days it was performed again at <a href="http://www.souterrain-totem.org/" target="new">Souterrain Porte VI</a> and it&#8217;s now ready to travel to new places.</p>
+<p><strong>what: </strong>the central aspect in <i>Danse Neurale</i> is to bring flesh, plastic and steel on stage together, make them complementary and let them express together as if they were a single organism. <br />Lukas&#8217; body is equipped with a series of wireless sensors: an <a href="http://en.wikipedia.org/wiki/Electroencephalography" target="new">EEG</a> headset, a breath microphone and a modified <a href="http://en.wikipedia.org/wiki/Stethoscope" target="new">stethoscope</a>; moreover two <a href="http://www.stevehaworth.com/wordpress/index.php/archives/121" target="new">flesh hooks</a> are inserted under his skin and connected to a winch. As the biometric signals are collected, they are sent to the software, where they are parsed in real time and used to drive both the audio and the visuals; when the winch starts to pull Lukas&#8217; flesh, it generates a neurological response that, in turn, becomes a biomechanical feedback: two huge wings made with his own EEG graph grow from his shoulders, start to flap and <a href="http://en.wikipedia.org/wiki/Suspension_(body_modification)" target="new">lift</a> his body off the ground. </p>
+<iframe src="https://player.vimeo.com/video/29874818" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/29874818">Spectre + Lukas Zpira @ Borderline Biennale 2011</a> from <a href="https://vimeo.com/user8655824">SPECTRE</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
